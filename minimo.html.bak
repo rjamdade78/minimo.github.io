@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+	<html lang="eng">
+		<head>
+			<title>minimo</title>
+			<link rel="preconnect" href="https://fonts.googleapis.com">
+				<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+				<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Passion+One:wght@700&family=Playfair+Display&family=Poppins:ital,wght@1,700&family=Ubuntu:wght@300&display=swap" rel="stylesheet">
+			<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+			<link rel="stylesheet" href="./assets/css/style.css">
+		</head>
+		<body>
+			<section class="header">
+				<div class="container">
+					<div class="row mb-70">
+						<div class="col3">
+							<div class="logo">
+								<a href"#">
+									<img src="./assets/image/minimo.png">
+								</a>
+							</div>
+						</div>
+						<div class="col9">
+							<nav>
+								<ul class="navbar text-right text-upper">
+									<li>
+										<a href="#">lifestyle</a>
+									</li>
+									<li>
+										<a href="#">photodiary</a>
+									</li>
+									<li>
+										<a href="#">music</a>
+									</li>
+									<li>
+										<a href="#">travel</a>
+									</li>
+								</ul>
+							</nav>
+						</div>	
+					</div>
+					<div class="row">
+						<div class="col12">
+							<div class="heroimg">
+								<img src="./assets/image/heroimg.jpg">
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<section>
+				<div class="container">
+					<div class="row">
+						<div class="col10 ml-1grid">
+							<p class="label mb-30 text-upper">
+								photodiary
+							</p>
+							<h4 class="getaway mb-35">
+								the pefect weekend getaway
+							</h4>
+							<p class="para1 mb-50">
+								Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+							</p>
+							<p class="label text-upper mb-135">
+								leave a comment
+							</p>
+						</div>
+					</div>
+				</div>
+			</section>
+			<section class="thumb-sec">
+			<div class="container">
+				<div class="row">
+					<div class="col10 ml-1grid">
+						<div class="row">
+							<div class="col6 pd-left0">
+								<div class="thumimg1">
+									<div class="image">
+									<img src="./assets/image/thumimg1.jpg">
+									</div>
+										<p class="label mb-30 text-upper">
+									photodiary
+								</p>
+								<h4 class="getaway mb-35">
+									More than just a music festival
+								</h4>
+								<p class="para1 mb-50">
+									Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+									sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+									Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris 
+								</p>
+								</div>
+							</div>
+							<div class="col6 pd-right0">
+								<div class="thumimg1">
+									<div class="image">
+									<img src="./assets/image/thumimg2.jpg">
+									</div>
+										<p class="label mb-30 text-upper">
+											lifestyle
+										</p>
+										<h4 class="getaway mb-35">
+											life tastes better with cofee
+										</h4>
+									<p class="para1 mb-50">
+										Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+										sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+										Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris 
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+					
+					<div class="col10 ml-1grid mt-78">
+						<div class="row  mb-120">
+							<div class="col6 pd-left0">
+								<div class="thumimg1">
+									<div class="image">
+										<img src="./assets/image/thumimg3.jpg">
+									</div>
+									<p class="label mb-30 text-upper">
+									photodiary
+									</p>
+									<h4 class="getaway mb-35">
+									More than just a music festival
+									</h4>
+									<p class="para1">
+									Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+									sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+									Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris 
+									</p>
+								</div>
+							</div>
+							<div class="col6 pd-right0">
+								<div class="thumimg1">
+									<div class="image">
+										<img src="./assets/image/thumimg4.jpg">
+									<div>
+									<p class="label mb-30 text-upper">
+										photodiary
+									</p>
+									<h4 class="getaway mb-35">
+										life tastes better with cofee
+										</h4>
+									<p class="para1">
+										Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+										sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+										Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris 
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<section class="sign-up text-center">
+				
+					<div class="row">
+						<div class="col4 ml-4grid">
+							<h4 class="getaway">
+								sign up for our newsletter!
+							</h4>
+							<div class="signup-control">
+								<input type="text" placeholder="Enter a valid mail address">
+								<i class="fab fa-telegram-plane"></i>
+							</div>
+						</div>
+					</div>
+				
+			</section>
+			</section>
+			<section class="thumb-sec">
+			<div class="container">
+				<div class="row mb-120">
+					<div class="col10 ml-1grid">
+						<div class="row">
+							<div class="col6 pd-left0">
+								<div class="thumimg1">
+									<div class="image">
+									<img src="./assets/image/thumimg1.jpg">
+									</div>
+										<p class="label mb-30 text-upper">
+									photodiary
+								</p>
+								<h4 class="getaway mb-35">
+									More than just a music festival
+								</h4>
+								<p class="para1">
+									Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+									sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+									Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris 
+								</p>
+								</div>
+							</div>
+							<div class="col6 pd-right0">
+								<div class="thumimg1">
+									<div class="image">
+									<img src="./assets/image/thumimg2.jpg">
+									</div>
+										<p class="label mb-30 text-upper">
+											lifestyle
+										</p>
+										<h4 class="getaway mb-35">
+											life tastes better with cofee
+										</h4>
+									<p class="para1">
+										Lorem ipsum dolor sit amet, consectetur adipisicing elit,
+										sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+										Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris 
+									</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="row mb-70">
+					<div class="text-center">
+						<button class="btn">
+							Load more
+						</button>
+					</div>
+				</div>
+			</div>	
+			</section>
+			<footer class="footer">
+				<div class="container">
+					<div class="row">
+						<div class="col6">
+							<ul class="footer-info">
+								<li>
+									<a href="#">
+										tearms and condition
+									</a>
+								</li>
+								<li>
+									<a href="#">
+										privacy
+									</a>
+								</li>
+							</ul>
+						</div>
+						<div class="col6 text-right">
+							<ul class="footer-info">
+								<li>
+									<a href="#">
+										follow
+									</a>
+								</li>
+								<li>
+									<a href="#">
+										<i class="fab fa-facebook-f"></i>
+									</a>
+								</li>
+								<li>
+									<a href="#">
+										<i class="fab fa-twitter"></i>
+									</a>
+								</li>
+									<li>
+									<a href="#">
+										<i class="fab fa-instagram"></i>
+									</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</footer>
+		</body>
+	</html>
